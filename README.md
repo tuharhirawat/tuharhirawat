@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tushar Hirawat</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h1 align="center" style="color:#ffcc00;">Hi 👋, I'm Tushar Hirawat</h1>
+<h3 align="center" style="color:#00ffcc;">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuharhirawat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tuharhirawat&label=Profile%20views&color=ff5733&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="color:#ff66b2;">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/god_hawkeye" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="color:#66ff66;">Languages and Tools:</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
@@ -50,11 +50,11 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center" style="color:#ff9933;">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuharhirawat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuharhirawat&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuharhirawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuharhirawat&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
