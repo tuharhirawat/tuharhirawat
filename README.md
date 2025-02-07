@@ -1,23 +1,22 @@
-<h1 align="center" style="background: linear-gradient(to right, #ffcc00, #ff66b2); -webkit-background-clip: text; color: transparent; font-size: 3rem;">Hi 👋, I'm Tushar Hirawat</h1>
-<h3 align="center" style="background: linear-gradient(to right, #00ffcc, #66ff66); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">A Passionate Frontend Developer from India</h3>
+<h1 align="center" style="background: linear-gradient(to right, #ffcc00, #ff66b2); -webkit-background-clip: text; color: transparent; font-size: 3rem; animation: glow 2s infinite alternate;">Hi 👋, I'm Tushar Hirawat</h1>
+<h3 align="center" style="background: linear-gradient(to right, #00ffcc, #66ff66); -webkit-background-clip: text; color: transparent; font-size: 1.8rem; animation: slideIn 2s ease-in-out;">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuharhirawat&label=Profile%20views&color=ff5733&style=flat" alt="Profile views" />
 </p>
 
-
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Animated Header" width="100%" />
 
 ---
 
-- 🔭 I’m currently working on **Crypto Tracker Website**
+- 🔬 I’m currently working on **Crypto Tracker Website**
 - 🌱 I’m currently learning **React, MySQL**
 - 💬 Ask me about **React, Frontend Development**
-- 📫 How to reach me: **tusharhirawat1918@gmail.com**
+- 📧 How to reach me: **tusharhirawat1918@gmail.com**
 
 ---
 
-<h3 align="center" style="background: linear-gradient(to right, #ff66b2, #ffcc00); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">🚀 Connect with me:</h3>
+<h3 align="center" style="background: linear-gradient(to right, #ff66b2, #ffcc00); -webkit-background-clip: text; color: transparent; font-size: 1.8rem; animation: glow 2s infinite alternate;">🚀 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/god_hawkeye" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -29,7 +28,7 @@
 
 ---
 
-<h3 align="center" style="background: linear-gradient(to right, #66ff66, #00ffcc); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">🛠 Languages and Tools:</h3>
+<h3 align="center" style="background: linear-gradient(to right, #66ff66, #00ffcc); -webkit-background-clip: text; color: transparent; font-size: 1.8rem; animation: slideIn 2s ease-in-out;">🛠 Languages and Tools:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -47,7 +46,7 @@
 
 ---
 
-<h3 align="center" style="background: linear-gradient(to right, #ff9933, #ff5733); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">📊 GitHub Stats:</h3>
+<h3 align="center" style="background: linear-gradient(to right, #ff9933, #ff5733); -webkit-background-clip: text; color: transparent; font-size: 1.8rem; animation: glow 2s infinite alternate;">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuharhirawat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -70,6 +69,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Coding GIF" />
 </p>
 
----
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 10px #ff66b2, 0 0 20px #ffcc00; }
+  to { text-shadow: 0 0 20px #ff66b2, 0 0 30px #ffcc00; }
+}
 
-
+@keyframes slideIn {
+  from { transform: translateY(-20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+</style>
