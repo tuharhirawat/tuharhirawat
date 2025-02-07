@@ -9,10 +9,10 @@
 
 ---
 
-- 🔬 I’m currently working on **Crypto Tracker Website**
+- 🔭 I’m currently working on **Crypto Tracker Website**
 - 🌱 I’m currently learning **React, MySQL**
 - 💬 Ask me about **React, Frontend Development**
-- 📧 How to reach me: **tusharhirawat1918@gmail.com**
+- 📫 How to reach me: **tusharhirawat1918@gmail.com**
 
 ---
 
@@ -65,3 +65,6 @@
   <img src="https://github.com/TuharHirawat/TuharHirawat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Coding GIF" />
+</p>
