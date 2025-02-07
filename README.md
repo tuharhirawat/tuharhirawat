@@ -1,9 +1,12 @@
-<h1 align="center" style="color:#ffcc00;">Hi 👋, I'm Tushar Hirawat</h1>
-<h3 align="center" style="color:#00ffcc;">A Passionate Frontend Developer from India</h3>
+<h1 align="center" style="background: linear-gradient(to right, #ffcc00, #ff66b2); -webkit-background-clip: text; color: transparent; font-size: 3rem;">Hi 👋, I'm Tushar Hirawat</h1>
+<h3 align="center" style="background: linear-gradient(to right, #00ffcc, #66ff66); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuharhirawat&label=Profile%20views&color=ff5733&style=flat" alt="Profile views" />
 </p>
+
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Animated Header" width="100%" />
 
 ---
 
@@ -14,47 +17,59 @@
 
 ---
 
-<h3 align="center" style="color:#ff66b2;">Connect with me:</h3>
+<h3 align="center" style="background: linear-gradient(to right, #ff66b2, #ffcc00); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">🚀 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/god_hawkeye" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/c/future_traderss" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-<h3 align="center" style="color:#66ff66;">Languages and Tools:</h3>
+<h3 align="center" style="background: linear-gradient(to right, #66ff66, #00ffcc); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">🛠 Languages and Tools:</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
 
 ---
 
-<h3 align="center" style="color:#ff9933;">📊 GitHub Stats:</h3>
+<h3 align="center" style="background: linear-gradient(to right, #ff9933, #ff5733); -webkit-background-clip: text; color: transparent; font-size: 1.8rem;">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuharhirawat&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuharhirawat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuharhirawat&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuharhirawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuharhirawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/TuharHirawat/TuharHirawat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Coding GIF" />
+</p>
+
+---
+
+
