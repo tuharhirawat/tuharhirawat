@@ -65,18 +65,3 @@
   <img src="https://github.com/TuharHirawat/TuharHirawat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Coding GIF" />
-</p>
-
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px #ff66b2, 0 0 20px #ffcc00; }
-  to { text-shadow: 0 0 20px #ff66b2, 0 0 30px #ffcc00; }
-}
-
-@keyframes slideIn {
-  from { transform: translateY(-20px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-</style>
